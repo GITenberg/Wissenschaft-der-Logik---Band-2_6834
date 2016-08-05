@@ -1,0 +1,28 @@
+_repo: Wissenschaft-der-Logik---Band-2_6834
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hegel, Georg Wilhelm Friedrich
+    alias: Hegel, G. W. F. (Georg Wilhelm Friedrich)
+    birthdate: 1770
+    deathdate: 1831
+    gutenberg_agent_id: '2161'
+    url: http://www.gutenberg.org/2009/agents/2161
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6834'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, German'
+- !lcc 'BC'
+- !lcsh 'Logic'
+- GITenberg
+title: Wissenschaft der Logik — Band 2
+url: http://www.gutenberg.org/ebooks/6834
